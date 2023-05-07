@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/Flokey82/go_gens/simmotive"
+	"github.com/Flokey82/simmotive"
 )
 
 func main() {
